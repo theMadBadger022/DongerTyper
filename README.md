@@ -3,7 +3,7 @@
 ヽ༼ຈل͜ຈ༽ﾉ With this small script you will be able to raise your dongers as efficiently and easily as you want. ヽ༼ຈل͜ຈ༽ﾉ
 
 
-![DongerTyper](http://i.imgur.com/VVieR7Z.png)
+![DongerTyper](https://i.imgur.com/I4wOYvl.png)
 
 ## Install
 
