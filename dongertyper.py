@@ -17,6 +17,8 @@ class FlowBoxWindow(Gtk.Window):
         Gtk.Window.__init__(self, title="FlowBox Demo")
         self.set_border_width(10)
         self.set_default_size(300, 250)
+        self.set_position(Gtk.WindowPosition.CENTER)
+        self.set_keep_above(True)
 
         header = Gtk.HeaderBar(title="DongerTyper v.0.1b")
         header.set_subtitle("ヽ༼ຈل͜ຈ༽ﾉ raise your dongers ヽ༼ຈل͜ຈ༽ﾉ")
